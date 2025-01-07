@@ -6,4 +6,7 @@ Jupyter Notebook. Las tablas generadas se guardaron en formato excel.
 
 El archivo "Notebook_sesnsp", contiene el listado de pasos realizados para obtener y ordenar la información requerida para el proyecto.
 
+El resultado final es un dashboard de Looker Studio disponible en la siguiente liga:
+https://lookerstudio.google.com/s/nYRGbWuITaw
+
 ¡Gracias por su atención! :)
